@@ -17,7 +17,7 @@ Turbine is a kitesurf forecasting platform that connects kite spots, conditions 
 
 Turbine is a passion project, built using WeatherFlow/iKitesurf's amazing network of real-time weather stations. Hopefully Turbine offers a way to maximize your iKitesurf subscription, supporting those who make it possible, and improving the daily task (every 30 minute task? 😬) of checking the wind, easier and more enjoyable. 
 
-For any questions, feedback, feature requests or just to chat about the wind/kitesurfing/etc, please don't hesitate to reach out - hunter@narrate.space - it'd be great to learn about how other's use the app.
+For any questions, feedback, feature requests or just to chat about the weather/kitesurfing/etc, please don't hesitate to reach out - hunter@narrate.space - it'd be great to learn about how other's use the app.
 
 ## Description
 
