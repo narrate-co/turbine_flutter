@@ -1,4 +1,4 @@
-# Turbine
+# Turbine: Kitesurf forecasting
 
 ***Turbine requires an iKitesurf Pro Account***
 
@@ -12,6 +12,14 @@ Turbine is a kitesurf forecasting platform that connects kite spots, conditions 
 
 <a href="https://play.google.com/store/apps/details?id=space.narrate.tate" target="_blank">
 <img src="https://github.com/narrate-co/turbine/blob/master/screenshots/get_it_on_google_play.png" alt="Get it on Google Play" height="90"/></a>
+
+## About 
+
+Turbine is a passion project, built using WeatherFlow/iKitesurf's amazing network of real-time weather stations. Hopefully Turbine offers a way to maximize your iKitesurf subscription, supporting those who make it possible, and improving the daily task (every 30 minute task? 😬) of checking the wind, easier and more enjoyable. 
+
+For any questions, feedback, feature requests or just to chat about the wind/kitesurfing/etc, please don't hesitate to reach out - hunter@narrate.space - it'd be great to learn about how other's use the app.
+
+## Description
 
 Turbine, at its core, is a wind & forecasting app, powered by iKitesurf, that enables you to easily check kitesurfing conditions at your local spot(s) or when exploring new locations. 
 
@@ -40,3 +48,14 @@ Community features:
 * See  who's checked-in to a spot by panning the map or viewing a list on a spot's page
 * Report local wind and kite conditions for spots
 * See reported conditions and chats from other riders at spots"
+
+## FAQs
+
+**Why do I need a paid iKitesurf Pro membership?**
+
+WeatherFlow/iKitesurf provide an amazing network of weather stations that report real-time wind data at a huge number of spots around the world. Turbine wants to support iKitesurf in every way possible. Additionally, some features in Turbine rely heavily on real-time data (a Pro/Premium-only feature), like recommending kite sizes and disciplines for current conditions, or viewing data like min/max/average wind speed of sessions you record.
+
+
+**I lost my password. How can I log back in to my account?**
+
+Please contact me at hunter@narrate.space
