@@ -2,7 +2,7 @@
 
 # Turbine: Kitesurf forecasting
 
-***Turbine requires an iKitesurf Pro Account***
+***>>> Turbine requires an iKitesurf Pro Account <<<***
 
 Turbine is a kitesurf forecasting platform that connects kite spots, conditions and the community.
 
