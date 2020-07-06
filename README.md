@@ -1,3 +1,5 @@
+<img src="https://github.com/narrate-co/turbine/blob/master/screenshots/logo.png" alt="Turbine logo" height="42"/></a> 
+
 # Turbine: Kitesurf forecasting
 
 ***Turbine requires an iKitesurf Pro Account***
