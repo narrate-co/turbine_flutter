@@ -7,11 +7,11 @@ Turbine is a kitesurf forecasting platform that connects kite spots, conditions 
 ![](screenshots/appstore_1.png)             |  ![](screenshots/appstore_2.png)             |  ![](screenshots/appstore_3.png)             |  ![](screenshots/appstore_4.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 
-<a href="https://play.google.com/store/apps/details?id=space.narrate.tate" target="_blank">
-<img src="https://github.com/narrate-co/turbine/blob/master/screenshots/get_it_on_google_play.png" alt="Get it on Google Play" height="90"/></a>
-
 <a href="https://testflight.apple.com/join/f4AD35NN" target="_blank">
 <img src="https://github.com/narrate-co/turbine/blob/master/screenshots/download_on_the_app_store.png" alt="Download on the App Store" height="90"/></a>
+
+<a href="https://play.google.com/store/apps/details?id=space.narrate.tate" target="_blank">
+<img src="https://github.com/narrate-co/turbine/blob/master/screenshots/get_it_on_google_play.png" alt="Get it on Google Play" height="90"/></a>
 
 Turbine, at its core, is a wind & forecasting app, powered by iKitesurf, that enables you to easily check kitesurfing conditions at your local spot(s) or when exploring new locations. 
 
