@@ -4,8 +4,8 @@
 
 Turbine is a kitesurf forecasting platform that connects kite spots, conditions and the community.
 
-![](screenshots/appstore_1.png)             |  ![](screenshots/appstore_2.png)             |  ![](screenshots/appstore_3.png)             |  ![](screenshots/appstore_4.png)             |  ![](screenshots/appstore_5.png)
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](screenshots/appstore_1.png)             |  ![](screenshots/appstore_2.png)             |  ![](screenshots/appstore_3.png)             |  ![](screenshots/appstore_4.png)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 
 <a href="https://play.google.com/store/apps/details?id=space.narrate.tate" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
